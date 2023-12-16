@@ -6,9 +6,10 @@ Scanning & Recognition of Gestures
  
 Fig 1.0: Recognition of Letter A 
 
- ![Uploading image.png…]()
+ ![image](https://github.com/dhanvi1911/Sign-Language-Recognition/assets/67651344/d0444472-9dee-46ff-8880-386903d392a6)
 
 Fig 2.0: Recognition of Letter B
+![Uploading image.png…]()
 
  
 Fig 3.0: Recognition of Letter C
